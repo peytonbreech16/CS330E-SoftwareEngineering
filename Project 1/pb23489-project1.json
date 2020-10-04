@@ -1,0 +1,16 @@
+{
+  "Project #1": {
+    "EID": "pb23489",
+    "First Name": "Peyton",
+    "Last Name": "Breech",
+    "E-mail": "peyton.breech16@utexas.edu",
+    "GitLab Username": "pb23489",
+    "GitLab URL": "https://gitlab.com/pb23489/cs330e-collatz",
+    "Git SHA": "5e8a688ef9f0c58240fb5504d9bd8a3513ed4429",
+    "GitLab Pipeline URL": "https://gitlab.com/pb23489/cs330e-collatz/-/pipelines",
+    "Estimated Completion Time (hours: int)": 10,
+    "Actual Completion Time (hours: int)": 8,
+    "Completed Sphere Challenge": false,
+    "Comments": "Very intereseting project with learning about merge requests on Gitlab, project was easier than I thought since I already have experience with Git and Gitlab"
+  }
+}
